@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rtoob/react-proyecto/static/css/main.4269ee80.chunk.css",
+    "main.js": "/rtoob/react-proyecto/static/js/main.a619dd45.chunk.js",
+    "main.js.map": "/rtoob/react-proyecto/static/js/main.a619dd45.chunk.js.map",
+    "runtime-main.js": "/rtoob/react-proyecto/static/js/runtime-main.b474e21a.js",
+    "runtime-main.js.map": "/rtoob/react-proyecto/static/js/runtime-main.b474e21a.js.map",
+    "static/js/2.ff4a48c8.chunk.js": "/rtoob/react-proyecto/static/js/2.ff4a48c8.chunk.js",
+    "static/js/2.ff4a48c8.chunk.js.map": "/rtoob/react-proyecto/static/js/2.ff4a48c8.chunk.js.map",
+    "index.html": "/rtoob/react-proyecto/index.html",
+    "precache-manifest.80daddfd997635dcfb28fa23cfdbf7ad.js": "/rtoob/react-proyecto/precache-manifest.80daddfd997635dcfb28fa23cfdbf7ad.js",
+    "service-worker.js": "/rtoob/react-proyecto/service-worker.js",
+    "static/css/main.4269ee80.chunk.css.map": "/rtoob/react-proyecto/static/css/main.4269ee80.chunk.css.map",
+    "static/js/2.ff4a48c8.chunk.js.LICENSE": "/rtoob/react-proyecto/static/js/2.ff4a48c8.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b474e21a.js",
+    "static/js/2.ff4a48c8.chunk.js",
+    "static/css/main.4269ee80.chunk.css",
+    "static/js/main.a619dd45.chunk.js"
+  ]
+}
